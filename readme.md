@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Andy</h1>
 <h3 align="center">An enthusiastic and active .Net Expert, from 🇦🇷, with +12 years of experience based on designing and developing .Net applications</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=amiretti alt=amiretti/> </p>
 <p align="left"> <a href="https://twitter.com/AMiretti" target="blank"><img src="https://img.shields.io/twitter/follow/AMiretti?logo=twitter&style=for-the-badge" alt="AMiretti" /></a> </p>
 
 - 🌱 I’m currently learning **all what I can Net stack related**

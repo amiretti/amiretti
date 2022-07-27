@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Andy</h1>
-<h3 align="center">An enthusiastic and active .Net Expert, from 🇦🇷, with +12 years of experience based on designing and developing .Net applications</h3>
+<h3 align="center">An enthusiastic and active .Net Expert, from 🇦🇷 with +12 years of experience based on designing and developing .Net applications</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=amiretti alt=amiretti/> </p>
 <p align="left"> <a href="https://twitter.com/AMiretti" target="blank"><img src="https://img.shields.io/twitter/follow/AMiretti?logo=twitter&style=for-the-badge" alt="AMiretti" /></a> </p>
 
-- 🌱 I’m currently learning **all what I can Net stack related**
+- 🌱 I’m currently learning **somethings about .NET MAUI**
 
 - 💬 Ask me about **C#, Azure, .Net stack, Xamarin, Vue.js, anything... if it is within my reach, I will be happy to answer you... :)**
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/AMiretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orney_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amiretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orney" height="30" width="40" /></a>
-<a href="mailto:andresmiretti@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

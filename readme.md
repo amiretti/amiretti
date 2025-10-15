@@ -36,7 +36,3 @@ Ask me about **C#, Azure, .Net stack, Xamarin, Vue.js, anything... if it is with
 *   **Email:** andresmiretti@gmail.com
 *   **LinkedIn:** [linkedin.com/in/amiretti](https://www.linkedin.com/in/amiretti)
 *   **X (formerly Twitter):** @AMiretti
-
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=amiretti alt=amiretti/> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiretti&show_icons=true&locale=en&layout=compact" alt="amiretti" /></p>

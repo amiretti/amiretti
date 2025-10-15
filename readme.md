@@ -1,32 +1,42 @@
-<h1 align="center">Hi 👋 I'm Andy</h1>
-<h3 align="center">An enthusiastic and active .Net Expert, from 🇦🇷 with +12 years of experience based on designing and developing .Net applications</h3>
+# Hi there! 👋 I'm Andy
+
+I'm **Andrés Miretti**, a **Senior .NET Developer** and Technical Lead based in Argentina 🇦🇷 (San Vicente, Santa Fe). Currently, I work at Globant.
+
+I bring **more than 12 years of experience** designing and developing software solutions using Microsoft technologies.
+
+I am passionate about programming and innovation, with a strong focus on **quality, clean architecture, and best practices**. I actively work with **DDD (Domain-Driven Design) and SOLID principles**.
+
+---
+
+### 💻 My Core Expertise
+
+My work spans the full development lifecycle, often involving technical leadership, collaboration in code reviews, and mentoring teammates.
+
+| Category | Key Technologies & Concepts |
+| :--- | :--- |
+| **Backend & Architecture** | **.NET 9, .NET 8, .NET Framework, C#, ASP.NET**, Entity Framework Core, LINQ. Expertise in DDD and microservices architecture, including the use of domain and integration events. |
+| **Cloud & DevOps** | My primary cloud focus is **Microsoft Azure** (Functions, Web Apps, Key Vault, Event Hub, Service Bus, Cognitive Services, Storage, Azure SQL). I also use **Docker**, **AWS S3**, Jenkins, Azure DevOps, Git, **Github**, and Bitbucket. |
+| **Databases** | I handle SQL and NoSQL: **MSSQL Server, PostgreSQL, MySQL, Cosmos DB**, and MongoDB. |
+| **Frontend Flavor** | Good command of HTML and JavaScript. Experience with **Vue.js** and **Blazor**. |
+
+---
+
+### 🌱 What I'm Up To & Education
+
+*   I’m currently diving into and learning **somethings about .NET MAUI**.
+*   I hold a Technical Degree in Programming from UTN (2011–2013).
+*   Languages: Spanish (Native) and English (Intermediate).
+
+---
+
+### 💬 Connect with Me
+
+Ask me about **C#, Azure, .Net stack, Xamarin, Vue.js, anything... if it is within my reach, I will be happy to answer you... :)**
+
+*   **Email:** andresmiretti@gmail.com
+*   **LinkedIn:** [linkedin.com/in/amiretti](https://www.linkedin.com/in/amiretti)
+*   **X (formerly Twitter):** @AMiretti
+
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=amiretti alt=amiretti/> </p>
-<p align="left"> <a href="https://twitter.com/AMiretti" target="blank"><img src="https://img.shields.io/twitter/follow/AMiretti?logo=twitter&style=for-the-badge" alt="AMiretti" /></a> </p>
-
-- 🌱 I’m currently learning **somethings about .NET MAUI**
-
-- 💬 Ask me about **C#, Azure, .Net stack, Xamarin, Vue.js, anything... if it is within my reach, I will be happy to answer you... :)**
-
-- 📫 Reach me at **andresmiretti@gmail.com** 
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/amiretti/](https://www.linkedin.com/in/amiretti/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/AMiretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orney_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amiretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orney" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin" target="_blank"> <img src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" alt="Xamarin" width="40" height="40"/> </a> 
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiretti&show_icons=true&locale=en&layout=compact" alt="amiretti" /></p>
